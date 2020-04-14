@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calorimeter</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="message">Please check your internet connection or make sure you have activated the localization</string>
+</resources>
